@@ -10,6 +10,12 @@ Criando Readme atraves da pagina [readme.so](https://readme.so/pt/editor), no cu
 ## *Aprendendo markdaw pela Documentação do github*
 - *[Escrevendo no git hub](https://docs.github.com/pt)*
 
-# *Outra opçao de altereçao*
+# *Outras opções de altereçao*
 
 - Outra opção de alterar arquivo é aqui pelo github.
+
+- . (ponto) é o atalho para editor visual studio.
+
+- git push salva as alterações do local para o remoto.
+
+- git pull salva as alterações do remoto para local.
