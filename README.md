@@ -2,10 +2,14 @@
 
 Criando Readme atraves da pagina [readme.so](https://readme.so/pt/editor), no curso de Versionamento de codigos no Git e GitHub da [DIO](https://web.dio.me).
 
-## *Documenta��o* 
+## *Documentação* 
 
 
 - *[GitHub](https://github.com)*
  
-## *Aprendendo markdaw pela Documenta��o do github*
+## *Aprendendo markdaw pela Documentação do github*
 - *[Escrevendo no git hub](https://docs.github.com/pt)*
+
+# *Outra opçao de altereçao*
+
+- Outra opção de alterar arquivo é aqui pelo github.
